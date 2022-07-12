@@ -2,7 +2,7 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class syndrome100JaCoCOTest {
+class Syndrome100JaCoCOTest {
 
     @Test
     void shoudFindMax() {
